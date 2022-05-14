@@ -8,3 +8,6 @@
 
 ## 辅助栈:  
 [394. 字符串解码](https://leetcode.cn/problems/decode-string/)
+
+## 数学  
+[812. 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)
