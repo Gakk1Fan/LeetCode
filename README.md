@@ -20,3 +20,6 @@
 
 ## 位运算
 [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)
+
+## 二叉搜索树
+[面试题 04.06. 后继者](https://leetcode.cn/problems/successor-lcci/)
