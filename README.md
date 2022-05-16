@@ -21,5 +21,9 @@
 ## 位运算
 [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)
 
-## 二叉搜索树
+## 二叉树  
+[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)  
+### 二叉搜索树
 [面试题 04.06. 后继者](https://leetcode.cn/problems/successor-lcci/)
+[538. 把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/)
+[1038. 从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)
