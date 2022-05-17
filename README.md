@@ -8,9 +8,10 @@
 [953. 验证外星语词典](https://leetcode.cn/problems/verifying-an-alien-dictionary/)  
 
 
-## 单调栈:  
-[394. 字符串解码](https://leetcode.cn/problems/decode-string/)
-[739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)  
+## 栈:  
+[394. 字符串解码](https://leetcode.cn/problems/decode-string/)  
+### 单调栈  
+[739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)   
 
 
 ## 数学  
@@ -28,7 +29,7 @@
 [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)
 
 ## 二叉树  
-[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)
+[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)  
 [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)  
 
 ### 二叉搜索树
