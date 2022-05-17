@@ -8,8 +8,10 @@
 [953. 验证外星语词典](https://leetcode.cn/problems/verifying-an-alien-dictionary/)  
 
 
-## 辅助栈:  
+## 单调栈:  
 [394. 字符串解码](https://leetcode.cn/problems/decode-string/)
+[739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)  
+
 
 ## 数学  
 [812. 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)
@@ -36,4 +38,8 @@
 
 ## 前缀和  
 [560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/)  
+
+## 字符串
+[647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/)  
+
 
