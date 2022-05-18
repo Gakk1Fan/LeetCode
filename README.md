@@ -15,7 +15,9 @@
 
 
 ## 数学  
-[812. 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)
+[812. 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)  
+### 货仓选址问题
+[462. 最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)
 
 ## 双指针
 [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)
@@ -26,8 +28,7 @@
 
 
 ## 位运算
-[461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)
-
+[461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)  
 ## 二叉树  
 [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)  
 [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)  
