@@ -1,7 +1,8 @@
 # LeetCode
 
 ## 动态规划：  
-[338. 比特位计数](https://leetcode.cn/problems/counting-bits/solution/by-zz1998-wn8z/)
+[338. 比特位计数](https://leetcode.cn/problems/counting-bits/solution/by-zz1998-wn8z/)  
+[464. 我能赢吗](https://leetcode.cn/problems/can-i-win/)  
 
 ## 哈希表：
 [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)  
@@ -19,6 +20,9 @@
 [961. 在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)  
 ### 货仓选址问题
 [462. 最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)  
+### 博弈论  
+[464. 我能赢吗](https://leetcode.cn/problems/can-i-win/)  
+
 
 ## 双指针
 [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)
