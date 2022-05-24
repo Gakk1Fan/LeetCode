@@ -34,9 +34,12 @@
 
 ## 位运算
 [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)  
+
 ## 二叉树  
 [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)  
 [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)  
+[965. 单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)  
+
 
 ### 二叉搜索树
 [面试题 04.06. 后继者](https://leetcode.cn/problems/successor-lcci/)  
