@@ -3,6 +3,8 @@
 ## 动态规划：  
 [338. 比特位计数](https://leetcode.cn/problems/counting-bits/solution/by-zz1998-wn8z/)  
 [464. 我能赢吗](https://leetcode.cn/problems/can-i-win/)  
+[467. 环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)  
+
 
 ## 哈希表：
 [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)  

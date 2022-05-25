@@ -57,20 +57,16 @@ def List2Tree(l: List) -> TreeNode:
     return root
 
 class Solution:
-    def isUnivalTree(self, root: TreeNode) -> bool:
-        if not root:
-            return True
-        t = root.val
-        def dfs(root):
-            if root:
-                if root.val != t:
-                    return False
-                if root.left:
-                    dfs(root.left)
-                if root.right:
-                    dfs(root.right)
-            return True   
-        return dfs(root)
+    def findSubstringInWraproundString(self, p: str) -> int:
+        dp, cur = [0] * 26, 1
+        dp[ord(p[0]) - ord('a')] = 1
+        for c1, c2 in pairwise(p):
+            if not (ord(c2) - ord(c1) - 1) % 26:
+                cur += 1
+            else:
+                cur = 1
+            dp[idx] = max(dp[idx := ord(c2) - ord('a')], cur)
+        return sum(dp)
 
 
 if __name__ == "__main__":
