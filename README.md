@@ -35,6 +35,8 @@
 ## 数组  
 [448. 找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)  
 [581. 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/)  
+[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/)  
+
 
 
 ## 位运算
