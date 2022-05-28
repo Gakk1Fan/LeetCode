@@ -63,6 +63,8 @@
 
 ## 字符串
 [647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/)  
+[1021. 删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)  
+
 
 ## 二分
 [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/)  

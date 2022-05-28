@@ -64,4 +64,4 @@ if __name__ == "__main__":
     root = List2Tree([2,2,2,5,2]) # 把测试用例中的 null 换成 'null'
     res = a.isUnivalTree(root)
     print(res) 
-    # 输出[[5, 4, 11, 2], [5, 8, 4, 5]]
+    # 输出[[5, 4, 11, 2], [5, 8, 4, 
