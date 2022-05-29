@@ -64,6 +64,7 @@
 ## 字符串
 [647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/)  
 [1021. 删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)  
+[468. 验证IP地址](https://leetcode.cn/problems/validate-ip-address/)  
 
 
 ## 二分
