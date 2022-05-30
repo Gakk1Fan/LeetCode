@@ -27,4 +27,4 @@ class Solution:
                     if not '0' <= c <= '9' and not 'a' <= c <= 'f' and not 'A' <= c <= 'F':
                         return "Neither"
             return "IPv6"
-        return "Neither"`
+        return "Neither"
