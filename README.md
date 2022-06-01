@@ -49,6 +49,7 @@
 [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)  
 [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)  
 [965. 单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)  
+[1022. 从根到叶的二进制数之和](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/)  
 
 
 ### 二叉搜索树
@@ -76,3 +77,6 @@
 [675. 为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/)  
 ### Floyd
 [399. 除法求值](https://leetcode.cn/problems/evaluate-division/)  
+
+## 爆搜
+[473. 火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/)  
