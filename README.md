@@ -23,6 +23,7 @@
 ## 数学  
 [812. 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)  
 [961. 在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)  
+[829. 连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum/)  
 ### 货仓选址问题
 [462. 最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)  
 ### 博弈论  
@@ -84,12 +85,16 @@
 [473. 火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/)  
 
 
-## 剑指Offer
-### Day01
+# 剑指Offer
+## Day01
 [剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)  
 [剑指 Offer 30. 包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)  
 
-### Day02
+## Day02
 [剑指 Offer 06. 从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)  
 [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)  
 [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/)  
+
+## Day03  
+[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)  
+[剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)  
