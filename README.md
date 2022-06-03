@@ -98,3 +98,11 @@
 ## Day03  
 [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)  
 [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)  
+
+
+# Hot100  
+[1. 两数之和](https://leetcode.cn/problems/two-sum/)  
+[2. 两数相加](https://leetcode.cn/problems/add-two-numbers/)  
+[3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)  
+[5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)  
+[11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)  
