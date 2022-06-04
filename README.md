@@ -69,6 +69,7 @@
 [647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/)  
 [1021. 删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)  
 [468. 验证IP地址](https://leetcode.cn/problems/validate-ip-address/)  
+[929. 独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)  
 
 
 ## 二分
@@ -98,6 +99,13 @@
 ## Day03  
 [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)  
 [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)  
+
+## Day04
+[剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)  
+[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)  
+[剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)  
+
+
 
 
 # Hot100  
