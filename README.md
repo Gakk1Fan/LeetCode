@@ -75,6 +75,7 @@
 ## 二分
 [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/)  
 [436. 寻找右区间](https://leetcode.cn/problems/find-right-interval/)  
+[875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)  
 
 ## 图论
 ### Dijkstra  
@@ -114,6 +115,12 @@
 [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)  
 [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)  
 [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)  
+
+
+## Day07
+[剑指 Offer 26. 树的子结构](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof/)  
+[剑指 Offer 27. 二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/)  
+[剑指 Offer 28. 对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/)  
 
 
 # Hot100  
