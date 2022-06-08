@@ -24,6 +24,7 @@
 [812. 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)  
 [961. 在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)  
 [829. 连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum/)  
+[1037. 有效的回旋镖](https://leetcode.cn/problems/valid-boomerang/)  
 ### 货仓选址问题
 [462. 最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)  
 ### 博弈论  
@@ -122,6 +123,10 @@
 [剑指 Offer 27. 二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/)  
 [剑指 Offer 28. 对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/)  
 
+## Day08
+[剑指 Offer 10- I. 斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/)  
+[剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)  
+[剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)  
 
 # Hot100  
 [1. 两数之和](https://leetcode.cn/problems/two-sum/)  
