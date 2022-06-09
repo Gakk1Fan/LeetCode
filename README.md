@@ -77,6 +77,8 @@
 [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/)  
 [436. 寻找右区间](https://leetcode.cn/problems/find-right-interval/)  
 [875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)  
+[497. 非重叠矩形中的随机点](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/)  
+
 
 ## 图论
 ### Dijkstra  
@@ -127,6 +129,10 @@
 [剑指 Offer 10- I. 斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/)  
 [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)  
 [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)  
+
+## Day09
+[剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)  
+[剑指 Offer 47. 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/)  
 
 # Hot100  
 [1. 两数之和](https://leetcode.cn/problems/two-sum/)  
