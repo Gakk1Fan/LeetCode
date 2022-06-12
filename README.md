@@ -71,6 +71,7 @@
 [1021. 删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)  
 [468. 验证IP地址](https://leetcode.cn/problems/validate-ip-address/)  
 [929. 独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)  
+[890. 查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern/)  
 
 
 ## 二分
@@ -133,6 +134,20 @@
 ## Day09
 [剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)  
 [剑指 Offer 47. 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/)  
+
+## Day10
+[剑指 Offer 46. 把数字翻译成字符串](https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)  
+[剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)  
+
+## Day11
+[剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/)   
+[剑指 Offer 22. 链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)  
+
+
+## Day12
+[剑指 Offer 25. 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)  
+[剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)  
+
 
 # Hot100  
 [1. 两数之和](https://leetcode.cn/problems/two-sum/)  

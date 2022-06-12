@@ -58,20 +58,25 @@ def List2Tree(l: List) -> TreeNode:
 
 
 class Solution:
-    def findRepeatNumber(self, nums: List[int]) -> int:
-        for i in range(len(nums)):
-            if nums[i] != i:
-                if nums[i] == nums[nums[i]]:
-                    return nums[i]
-                nums[nums[i]], nums[i] = nums[i], nums[nums[i]]
-        return 0
+    def distinctNames(self, ideas: List[str]) -> int:
+        d = {value: key for key, value in enumerate(ideas)}
+        d_map = collections.defaultdict(int)
+        for i in range(len(ideas)):
+            for j in range(i + 1, len(ideas)):
+                ia, ib = ideas[i], ideas[j]
+                nia = ib[0] + ia[1:]
+                nib = ia[0] + ib[1:]
+                iab = nia + ' ' + nib
+                if nia not in d and nib not in d and iab not in d_map:
+                    d_map[iab] = 1
+        return len(d_map)
 
 if __name__ == "__main__":
     a = Solution()
     """ 二叉树debug """
     root = List2Tree([2,2,2,5,2]) # 把测试用例中的 null 换成 'null'
-    l1 = [2, 3, 1, 0, 2, 5, 3]
+    l1 = ["coffee","donuts","time","toffee"]
     str1 = "172.16.254.1"
-    res = a.findRepeatNumber(l1)
+    res = a.distinctNames(l1)
     print(res) 
     # 输出[[5, 4, 11, 2], [5, 8, 4, 
