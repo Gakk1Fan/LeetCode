@@ -38,6 +38,8 @@
 [448. 找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)  
 [581. 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/)  
 [面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/)  
+[1051. 高度检查器](https://leetcode.cn/problems/height-checker/)  
+
 ### 数组+排序  
 [406. 根据身高重建队列](https://leetcode.cn/problems/queue-reconstruction-by-height/)  
 
@@ -147,6 +149,11 @@
 ## Day12
 [剑指 Offer 25. 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)  
 [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)  
+
+## Day13
+[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)  
+[剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)  
+[剑指 Offer 58 - I. 翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/)  
 
 
 # Hot100  
