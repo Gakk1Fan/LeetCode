@@ -1,5 +1,8 @@
 # LeetCode
 
+## 枚举
+[498. 对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)  
+
 ## 动态规划：  
 [338. 比特位计数](https://leetcode.cn/problems/counting-bits/solution/by-zz1998-wn8z/)  
 [464. 我能赢吗](https://leetcode.cn/problems/can-i-win/)  
